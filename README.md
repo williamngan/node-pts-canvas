@@ -1,4 +1,4 @@
-# node-pts-canvas: Using Pts library with node-canvas
+# node-pts-canvas: Pts.js with node-canvas
 
 ![generated image](./test.png)
 
